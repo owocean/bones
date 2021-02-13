@@ -1,0 +1,30 @@
+{
+  "name": "bones",
+  "version": "0.0.0",
+  "description": "A non fungible token on the arweave blockchain",
+  "main": "stateGen.js",
+  "dependencies": {
+    "arweave": "^1.10.6",
+    "smartweave": "^0.4.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owocean/bones.git"
+  },
+  "keywords": [
+    "bones",
+    "arweave",
+    "nft"
+  ],
+  "author": "owocean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owocean/bones/issues"
+  },
+  "homepage": "https://github.com/owocean/bones#readme"
+}
