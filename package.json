@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node test"
+    "test": "node test/test"
   },
   "type": "module",
   "repository": {
